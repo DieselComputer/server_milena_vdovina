@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 20px;
+    min-height: 100vh;
+    background-color: gainsboro;
+}
+h1 {
+    color: #444;
+    font-style: italic;
+}
+h3{
+    color:#555;
+}
+ul{
+    margin: 0;
+    padding: 10px;
+}
+a{
+     color: darkred;
+}
+.c {
+    margin: 100px;
+    text-align: center;
+    padding: 10px;
+    background-color: ghostwhite;
+    border: 1px solid #eee;
+    border-radius: 15px;
+}
